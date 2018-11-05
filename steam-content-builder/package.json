@@ -1,0 +1,15 @@
+{
+  "name": "@manuelrauber/steam-content-builder",
+  "description": "This tools helps to create automated Steam deployments as well as generating all necessary scripts for it.",
+  "version": "0.0.0",
+  "scripts": {
+    "setup": "node src/setup.js"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2"
+  },
+  "devDependencies": {
+    "inquirer": "^6.2.0"
+  }
+}

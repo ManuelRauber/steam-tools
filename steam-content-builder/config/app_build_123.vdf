@@ -1,0 +1,16 @@
+"appbuild"
+{
+	"appid"	"123"
+	"desc" ""
+	"buildoutput" "..\output\"
+	"contentroot" "..\content\"
+	"setlive"	"beta"
+	"preview" "0"
+	"local"	"" 
+	
+	"depots"
+	{
+		"45" "depot_build_45.vdf"
+		"78" "depot_build_78.vdf"
+	}
+}
