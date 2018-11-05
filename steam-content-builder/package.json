@@ -6,10 +6,9 @@
     "setup": "node src/setup.js"
   },
   "dependencies": {
+    "inquirer": "^6.2.0",
     "mkdirp": "^0.5.1",
-    "rimraf": "^2.6.2"
-  },
-  "devDependencies": {
-    "inquirer": "^6.2.0"
+    "rimraf": "^2.6.2",
+    "unzip": "^0.1.11"
   }
 }

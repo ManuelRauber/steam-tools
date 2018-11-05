@@ -1,2 +1,8 @@
 .idea
 node_modules
+steam-sdk
+!steam-sdk/README.md
+config
+
+# Test SDK 
+steamworks_sdk_142.zip
